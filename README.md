@@ -1,4 +1,4 @@
-# 🅾️❎ Tic-Tac-Toe  
+# ❎🅾️ Tic-Tac-Toe  
 
 ## 🎮 A Fun and Simple Game in JavaScript  
 
