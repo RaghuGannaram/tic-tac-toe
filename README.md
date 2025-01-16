@@ -1,3 +1,5 @@
-# Tic Tac Toe
+# ❎🅾️ Tic-Tac-Toe  
 
-## A simple Tic Tac Toe game in JavaScript
+## 🎮 A Fun and Simple Game in JavaScript  
+
+Welcome to **Tic-Tac-Toe**, the classic game of strategy and fun! This project is built using **JavaScript**, offering an interactive and engaging gameplay experience. Perfect for casual players and coding enthusiasts alike!  
